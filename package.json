@@ -1,0 +1,28 @@
+{
+  "name": "basket-learner",
+  "version": "0.1.0",
+  "description": "A little algorithm that teaches itself to play basketball.",
+  "main": "js/robot.js",
+  "scripts": {
+    "test": "node js/entry.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLambda/basket-learner.git"
+  },
+  "keywords": [
+    "basket",
+    "learner",
+    "machine",
+    "learning",
+    "robot",
+    "algorithm",
+    "terminator"
+  ],
+  "author": "Matthieu 'Freeman' Vienot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iLambda/basket-learner/issues"
+  },
+  "homepage": "https://github.com/iLambda/basket-learner#readme"
+}
